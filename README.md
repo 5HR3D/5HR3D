@@ -7,8 +7,8 @@
 <b> 🇮🇳 From India 🇮🇳 </b><br>
 
 <b> A teen who ❤️ to hack, listen to music 🎵 and automate things. I often mess with many different technologies xD</b>
-<br><br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Posting soon <3
+<br><p align="center">| Vibing in th wormhole |</p><br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Thanks.
 
 <details>
 <summary>Know More About Me</summary>
