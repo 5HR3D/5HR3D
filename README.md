@@ -4,10 +4,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=5HR3D&show_icons=true&hide_border=true">
 
-<b> 🇮🇳 From India 🇮🇳 </b><br>
+<b align="center"> 🇮🇳 From India 🇮🇳 </b><br>
 
-<b> A teen who ❤️ to hack, listen to music 🎵 and automate things. I often mess with many different technologies xD</b>
-<br><p align="center">| Vibing in th wormhole |</p>
+A teen who ❤️ to hack, listen to music 🎵 and automate things. I often mess with many different technologies xD
+<br><p align="center">| <b> Vibing In The Wormhole <b> |</p>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Thanks.
 
 <details>
