@@ -7,7 +7,7 @@
 <b> 🇮🇳 From India 🇮🇳 <br>
 
 A teen who ❤️ to hack, listen to music 🎵 and automate things. I often mess with many different technologies xD
-<br>
+<br><br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Thanks.
 
 <details>
