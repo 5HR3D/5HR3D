@@ -10,15 +10,15 @@ A teen who ❤️ to hack, listen to music 🎵 and automate things. I often mes
 <br><br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Thanks.
 
-<details>
+<!--<details>
 <summary>Know More About Me</summary>
 <br>
 Visit My <a href="http://5HR3D.c1.biz">Website</a> [Under Construction]
 <br><br>
-<details>
+</details>-->
+<br><details>
 <summary>Contact Me</summary>
 <br>
 Visit http://linktr.ee/5HR3D or Mail me at "its5hr3d@protonmail.com"
-</details>
-</details>
+</details><br>
 <p align="center">© 5HR3D</p>
