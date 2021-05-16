@@ -1,6 +1,6 @@
 # Hello! <img src="Hi.gif" width="28px"> 
 
-<b>I'm 5HR3D! Software Developer and Penetration Tester</b>
+<b>I'm 5HR3D! Penetration Tester and a Programmer</b>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=5HR3D&show_icons=true&hide_border=true">
 
