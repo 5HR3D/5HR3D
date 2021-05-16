@@ -16,9 +16,11 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Visit My <a href="http://5HR3D.c1.biz">Website</a> [Under Construction]
 <br><br>
 </details>-->
-<br><details>
+<br>
+<details>
 <summary>Contact Me</summary>
 <br>
-Visit </b> http://linktr.ee/5HR3D<b> or Mail me at "</b>its5hr3d@protonmail.com<b>"
-</details><br>
+Visit http://linktr.ee/5HR3D or Mail me at "its5hr3d@protonmail.com"
+<br><br>
+</details>
 <p align="center">© 5HR3D</p>
