@@ -19,6 +19,6 @@ Visit My <a href="http://5HR3D.c1.biz">Website</a> [Under Construction]
 <br><details>
 <summary>Contact Me</summary>
 <br>
-Visit</b> http://linktr.ee/5HR3D<b> or Mail me at "</b>its5hr3d@protonmail.com<b>"
+Visit </b> http://linktr.ee/5HR3D<b> or Mail me at "</b>its5hr3d@protonmail.com<b>"
 </details><br>
 <p align="center">© 5HR3D</p>
